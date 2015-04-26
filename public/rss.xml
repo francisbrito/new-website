@@ -10,10 +10,143 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2015 08:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2015 19:44:56 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2015 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[ng-csv updated to version 0.3.3]]></title>
+            <description><![CDATA[Simple directive that turns arrays and objects into downloadable CSV files<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/ng-csv/0.3.3/ng-csv.min.js">//cdnjs.cloudflare.com/ajax/libs/ng-csv/0.3.3/ng-csv.min.js</a>]]></description>
+            <link>https://github.com/asafdav/ng-csv</link>
+            <guid isPermaLink="false">ng-csv0.3.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2015 19:29:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[neo-async updated to version 1.0.0]]></title>
+            <description><![CDATA[Neo-Async is thought to be used as a drop-in replacement for Async, it almost fully covers its functionality and runs faster<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/neo-async/1.0.0/async.js">//cdnjs.cloudflare.com/ajax/libs/neo-async/1.0.0/async.js</a>]]></description>
+            <guid isPermaLink="false">neo-async1.0.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2015 19:29:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[matreshka updated to version 1.0.5]]></title>
+            <description><![CDATA[JavaScript framework for programmers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/matreshka/1.0.5/matreshka.min.js">//cdnjs.cloudflare.com/ajax/libs/matreshka/1.0.5/matreshka.min.js</a>]]></description>
+            <link>http://matreshka.io/</link>
+            <guid isPermaLink="false">matreshka1.0.5</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2015 19:29:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[chai updated to version 2.3.0]]></title>
+            <description><![CDATA[BDD/TDD assertion library for node.js and the browser. Test framework agnostic.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/chai/2.3.0/chai.js">//cdnjs.cloudflare.com/ajax/libs/chai/2.3.0/chai.js</a>]]></description>
+            <link>http://chaijs.com</link>
+            <guid isPermaLink="false">chai2.3.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2015 19:28:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery-form-validator updated to version 2.2.0]]></title>
+            <description><![CDATA[This plugin makes it easy to validate user input while keeping your HTML markup clean from javascript code. Even though this plugin has a wide range of validation functions it's designed to require as little bandwidth as possible. This is achieved by grouping together validation functions in "modules", making it possible for the programmer to load only those functions that's needed to validate a particular form.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.2.0/jquery.form-validator.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.2.0/jquery.form-validator.min.js</a>]]></description>
+            <link>http://formvalidator.net</link>
+            <guid isPermaLink="false">jquery-form-validator2.2.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2015 09:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Han updated to version 3.2.0]]></title>
+            <description><![CDATA[The CSS typography framework optimised for Hanzi<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Han/3.2.0/han.min.css">//cdnjs.cloudflare.com/ajax/libs/Han/3.2.0/han.min.css</a>]]></description>
+            <link>http://css.hanzi.co/</link>
+            <guid isPermaLink="false">Han3.2.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2015 06:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swiper updated to version 3.0.7]]></title>
+            <description><![CDATA[Mobile touch slider and framework with hardware accelerated transitions<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/Swiper/3.0.7/js/swiper.min.js">//cdnjs.cloudflare.com/ajax/libs/Swiper/3.0.7/js/swiper.min.js</a>]]></description>
+            <link>http://www.idangero.us/sliders/swiper</link>
+            <guid isPermaLink="false">Swiper3.0.7</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2015 06:55:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[summernote updated to version 0.6.5]]></title>
+            <description><![CDATA[Meet the world's best WYSIWYG editor on bootstrap. Summernote support both bootstrap 3.0.x and 2.x.x.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/summernote/0.6.5/summernote.min.js">//cdnjs.cloudflare.com/ajax/libs/summernote/0.6.5/summernote.min.js</a>]]></description>
+            <link>http://hackerwins.github.io/summernote/</link>
+            <guid isPermaLink="false">summernote0.6.5</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2015 06:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[paymentfont updated to version 1.1.2]]></title>
+            <description><![CDATA[PaymentFont<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/paymentfont/1.1.2/css/paymentfont.min.css">//cdnjs.cloudflare.com/ajax/libs/paymentfont/1.1.2/css/paymentfont.min.css</a>]]></description>
+            <link>http://paymentfont.io/</link>
+            <guid isPermaLink="false">paymentfont1.1.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2015 06:54:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[quill updated to version 0.19.11]]></title>
+            <description><![CDATA[Cross browser rich text editor<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/quill/0.19.11/quill.base.min.css">//cdnjs.cloudflare.com/ajax/libs/quill/0.19.11/quill.base.min.css</a>]]></description>
+            <link>http://quilljs.com</link>
+            <guid isPermaLink="false">quill0.19.11</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2015 06:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[js-yaml updated to version 3.3.0]]></title>
+            <description><![CDATA[YAML 1.2 parser and serializer<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.3.0/js-yaml.min.js">//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.3.0/js-yaml.min.js</a>]]></description>
+            <link>https://github.com/nodeca/js-yaml</link>
+            <guid isPermaLink="false">js-yaml3.3.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2015 06:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[document-register-element updated to version 0.3.0]]></title>
+            <description><![CDATA[A stand-alone working lightweight version of the W3C Custom Elements specification<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/document-register-element/0.3.0/document-register-element.js">//cdnjs.cloudflare.com/ajax/libs/document-register-element/0.3.0/document-register-element.js</a>]]></description>
+            <link>https://github.com/WebReflection/document-register-element</link>
+            <guid isPermaLink="false">document-register-element0.3.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2015 06:52:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[vue updated to version 0.11.8]]></title>
+            <description><![CDATA[Simple, Fast & Composable MVVM for building interative interfaces<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/vue/0.11.8/vue.min.js">//cdnjs.cloudflare.com/ajax/libs/vue/0.11.8/vue.min.js</a>]]></description>
+            <link>http://vuejs.org</link>
+            <guid isPermaLink="false">vue0.11.8</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2015 05:57:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[danialfarid-angular-file-upload updated to version 4.0.3]]></title>
+            <description><![CDATA[undefined<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/4.0.3/ng-file-upload-shim.min.js">//cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/4.0.3/ng-file-upload-shim.min.js</a>]]></description>
+            <guid isPermaLink="false">danialfarid-angular-file-upload4.0.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2015 16:48:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.mb.YTPlayer updated to version 2.8.5]]></title>
+            <description><![CDATA[This plugin let you play any public YouTube video as background of your page. It can also be used as a customized player in page.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/2.8.5/jquery.mb.YTPlayer.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/2.8.5/jquery.mb.YTPlayer.min.js</a>]]></description>
+            <link>http://pupunzi.open-lab.com/mb-jquery-components/jquery-mb-ytplayer/</link>
+            <guid isPermaLink="false">jquery.mb.YTPlayer2.8.5</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2015 16:47:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[chainloading updated to version 1.1.0]]></title>
+            <description><![CDATA[Allows you to chain together jQuery deferreds or functions<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/chainloading/1.1.0/chainloading.min.js">//cdnjs.cloudflare.com/ajax/libs/chainloading/1.1.0/chainloading.min.js</a>]]></description>
+            <guid isPermaLink="false">chainloading1.1.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2015 16:45:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[numbro updated to version 1.1.1]]></title>
+            <description><![CDATA[Format and manipulate numbers.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/numbro/1.1.1/languages.js">//cdnjs.cloudflare.com/ajax/libs/numbro/1.1.1/languages.js</a>]]></description>
+            <link>http://numbrojs.com</link>
+            <guid isPermaLink="false">numbro1.1.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2015 13:52:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[postscribe updated to version 1.4.0]]></title>
             <description><![CDATA[Asynchronously write javascript, even with document.write.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/postscribe/1.4.0/postscribe.min.js">//cdnjs.cloudflare.com/ajax/libs/postscribe/1.4.0/postscribe.min.js</a>]]></description>
@@ -21,14 +154,6 @@
             <guid isPermaLink="false">postscribe1.4.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 25 Apr 2015 07:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[paymentfont updated to version 1.1.1]]></title>
-            <description><![CDATA[PaymentFont<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/paymentfont/1.1.1/css/paymentfont.min.css">//cdnjs.cloudflare.com/ajax/libs/paymentfont/1.1.1/css/paymentfont.min.css</a>]]></description>
-            <link>http://paymentfont.io/</link>
-            <guid isPermaLink="false">paymentfont1.1.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2015 07:25:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[angular-formly-templates-bootstrap updated to version 4.0.7]]></title>
@@ -68,13 +193,6 @@
             <guid isPermaLink="false">operative0.4.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 24 Apr 2015 19:41:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[danialfarid-angular-file-upload updated to version 4.0.2]]></title>
-            <description><![CDATA[undefined<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/4.0.2/angular-file-upload.min.js">//cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/4.0.2/angular-file-upload.min.js</a>]]></description>
-            <guid isPermaLink="false">danialfarid-angular-file-upload4.0.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2015 15:07:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[angular-scroll updated to version 0.7.0]]></title>
@@ -995,14 +1113,6 @@
             <pubDate>Tue, 14 Apr 2015 05:14:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[summernote updated to version 0.6.4]]></title>
-            <description><![CDATA[Meet the world's best WYSIWYG editor on bootstrap. Summernote support both bootstrap 3.0.x and 2.x.x.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/summernote/0.6.4/summernote.min.js">//cdnjs.cloudflare.com/ajax/libs/summernote/0.6.4/summernote.min.js</a>]]></description>
-            <link>http://hackerwins.github.io/summernote/</link>
-            <guid isPermaLink="false">summernote0.6.4</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2015 05:13:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[jquery-layout updated to version 1.4.3]]></title>
             <description><![CDATA[jQuery plugin for layout management (jQuery version of extJS border-layout).<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-layout/1.4.3/jquery.layout.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery-layout/1.4.3/jquery.layout.min.js</a>]]></description>
             <link>http://layout.jquery-dev.net/</link>
@@ -1033,13 +1143,6 @@
             <guid isPermaLink="false">p5.js0.4.4</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 14 Apr 2015 04:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[neo-async updated to version 0.6.4]]></title>
-            <description><![CDATA[Neo-Async is thought to be used as a drop-in replacement for Async, it almost fully covers its functionality and runs faster<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/neo-async/0.6.4/async.js">//cdnjs.cloudflare.com/ajax/libs/neo-async/0.6.4/async.js</a>]]></description>
-            <guid isPermaLink="false">neo-async0.6.4</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2015 04:45:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jshint updated to version 2.7.0]]></title>
@@ -1079,86 +1182,6 @@
             <guid isPermaLink="false">materialize0.96.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 13 Apr 2015 03:22:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.nanoscroller updated to version 0.8.6]]></title>
-            <description><![CDATA[A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.nanoscroller/0.8.6/css/nanoscroller.min.css">//cdnjs.cloudflare.com/ajax/libs/jquery.nanoscroller/0.8.6/css/nanoscroller.min.css</a>]]></description>
-            <link>http://jamesflorentino.github.com/nanoScrollerJS/</link>
-            <guid isPermaLink="false">jquery.nanoscroller0.8.6</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2015 18:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[es5-shim updated to version 4.1.1]]></title>
-            <description><![CDATA[ECMAScript 5 compatibility shims for legacy JavaScript engines<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/es5-shim/4.1.1/es5-shim.min.js">//cdnjs.cloudflare.com/ajax/libs/es5-shim/4.1.1/es5-shim.min.js</a>]]></description>
-            <link>http://github.com/es-shims/es5-shim/</link>
-            <guid isPermaLink="false">es5-shim4.1.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2015 18:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[lunr.js updated to version 0.5.8]]></title>
-            <description><![CDATA[Simple full-text search in your browser<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/lunr.js/0.5.8/lunr.min.js">//cdnjs.cloudflare.com/ajax/libs/lunr.js/0.5.8/lunr.min.js</a>]]></description>
-            <link>http://lunrjs.com</link>
-            <guid isPermaLink="false">lunr.js0.5.8</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2015 17:25:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.isotope updated to version 2.2.0]]></title>
-            <description><![CDATA[Filter and sort magical layouts<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.0/isotope.pkgd.min.js">//cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.0/isotope.pkgd.min.js</a>]]></description>
-            <link>http://isotope.metafizzy.co</link>
-            <guid isPermaLink="false">jquery.isotope2.2.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2015 17:20:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[immutable updated to version 3.7.2]]></title>
-            <description><![CDATA[Immutable Data Collections<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/immutable/3.7.2/immutable.min.js">//cdnjs.cloudflare.com/ajax/libs/immutable/3.7.2/immutable.min.js</a>]]></description>
-            <link>https://github.com/facebook/immutable-js</link>
-            <guid isPermaLink="false">immutable3.7.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2015 17:20:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fotorama updated to version 4.6.4]]></title>
-            <description><![CDATA[A simple, stunning, powerful jQuery gallery.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js">//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js</a>]]></description>
-            <link>http://fotorama.io/</link>
-            <guid isPermaLink="false">fotorama4.6.4</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2015 17:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[moment.js updated to version 2.10.2]]></title>
-            <description><![CDATA[A lightweight (4.3k) javascript date library for parsing, manipulating, and formatting dates.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.2/moment.min.js">//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.2/moment.min.js</a>]]></description>
-            <link>http://momentjs.com/</link>
-            <guid isPermaLink="false">moment.js2.10.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2015 17:09:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[medium-editor-custom-html updated to version 1.1.0]]></title>
-            <description><![CDATA[Insert custom HTML using a new button in the Medium Editor toolbar<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/medium-editor-custom-html/1.1.0/custom-html.js">//cdnjs.cloudflare.com/ajax/libs/medium-editor-custom-html/1.1.0/custom-html.js</a>]]></description>
-            <link>https://github.com/jillix/medium-editor-custom-html</link>
-            <guid isPermaLink="false">medium-editor-custom-html1.1.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2015 17:08:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mithril updated to version 0.1.34]]></title>
-            <description><![CDATA[A Javascript Framework for building brilliant applications<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.34/mithril.min.js">//cdnjs.cloudflare.com/ajax/libs/mithril/0.1.34/mithril.min.js</a>]]></description>
-            <link>http://lhorie.github.io/mithril</link>
-            <guid isPermaLink="false">mithril0.1.34</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2015 17:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery-visibility updated to version 1.0.11]]></title>
-            <description><![CDATA[Page visibility shim for jQuery.<br /><br /><a href="//cdnjs.cloudflare.com/ajax/libs/jquery-visibility/1.0.11/jquery-visibility.js">//cdnjs.cloudflare.com/ajax/libs/jquery-visibility/1.0.11/jquery-visibility.js</a>]]></description>
-            <link>http://mths.be/visibility</link>
-            <guid isPermaLink="false">jquery-visibility1.0.11</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2015 17:08:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
